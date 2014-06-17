@@ -16,6 +16,7 @@ class UsersController < ApplicationController
   		# and isn't exposed to external users on the web
   		@user = User.new( user_params )
   		if @user.save
+        sign_in @user
         flash[:success] = "Thank you for joining ZAO"
   			redirect_to @user
   		else
