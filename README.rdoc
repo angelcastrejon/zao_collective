@@ -1,28 +1,18 @@
 == README
+=== or don't it's up to you
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#--------------------------------------------------------------------------------------
+#:section What is this?
+# This is going to be the Web Application for people to register. 
+# Users will be able to:
+# * make reservations for the studio and participate in workshops throughout each month
+# * keep track of their membership dues
+# * ... more to add
+#--------------------------------------------------------------------------------------
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+#----------------------------
+#:section Versions of things
+# pretty self explanitory 
+# * Ruby version: 2.0.0
+# * Rails version: 4.0
+#----------------------------
