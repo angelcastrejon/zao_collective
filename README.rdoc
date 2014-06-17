@@ -1,18 +1,17 @@
 == README
-=== or don't it's up to you
+=== or don't it's all good
 
-#--------------------------------------------------------------------------------------
-#:section What is this?
-# This is going to be the Web Application for people to register. 
-# Users will be able to:
-# * make reservations for the studio and participate in workshops throughout each month
-# * keep track of their membership dues
-# * ... more to add
-#--------------------------------------------------------------------------------------
+This is going to be the Web App for the ZAO Collective
 
-#----------------------------
-#:section Versions of things
-# pretty self explanitory 
-# * Ruby version: 2.0.0
-# * Rails version: 4.0
-#----------------------------
+Things the web app will do:
+
+* User will make reservations for the studio and participate in workshops throughout each month
+
+* Keep track of their membership dues
+
+* ... more to come
+
+Versions of things
+
+* Ruby version: 2.0.0
+* Rails version: 4.0
