@@ -1,3 +1,5 @@
+
+
 $ ->
   flashCallback = ->
     $(".flash-message").fadeOut()
